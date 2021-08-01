@@ -144,6 +144,7 @@ polyline {
 	border-top: 1px dashed black;
 	background-color: #0d6efd;
 	color: white;
+	z-index: 9999;
 }
 
 #dog-card:hover {
