@@ -1,0 +1,103 @@
+breed,classification,obey,reps_lower,reps_upper,reps_avg
+Australian Cattle Dog,Brightest Dogs,0.95,1,4,2.5
+Border Collie,Brightest Dogs,0.95,1,4,2.5
+Doberman Pinscher,Brightest Dogs,0.95,1,4,2.5
+German Shepherd,Brightest Dogs,0.95,1,4,2.5
+Golden Retriever,Brightest Dogs,0.95,1,4,2.5
+Labrador Retriever,Brightest Dogs,0.95,1,4,2.5
+Papillon,Brightest Dogs,0.95,1,4,2.5
+Poodle,Brightest Dogs,0.95,1,4,2.5
+Rottweiler,Brightest Dogs,0.95,1,4,2.5
+Shetland Sheepdog,Brightest Dogs,0.95,1,4,2.5
+Bernese Mountain Dog,Excellent Working Dogs,0.85,5,15,10
+Brittany,Excellent Working Dogs,0.85,5,15,10
+Cardigan Welsh Corgi,Excellent Working Dogs,0.85,5,15,10
+Cocker Spaniel,Excellent Working Dogs,0.85,5,15,10
+Collie,Excellent Working Dogs,0.85,5,15,10
+English Springer Spaniel,Excellent Working Dogs,0.85,5,15,10
+Flat-Coated Retriever,Excellent Working Dogs,0.85,5,15,10
+German Shorthaired Pointer,Excellent Working Dogs,0.85,5,15,10
+Irish Water Spaniel,Excellent Working Dogs,0.85,5,15,10
+Pomeranian,Excellent Working Dogs,0.85,5,15,10
+Schipperke,Excellent Working Dogs,0.85,5,15,10
+Standard Schnauzer,Excellent Working Dogs,0.85,5,15,10
+Vizsla,Excellent Working Dogs,0.85,5,15,10
+Weimaraner,Excellent Working Dogs,0.85,5,15,10
+Affenpinscher,Above Average Working Dogs,0.7,16,25,20.5
+Airedale Terrier,Above Average Working Dogs,0.7,16,25,20.5
+American Staffordshire Terrier,Above Average Working Dogs,0.7,16,25,20.5
+Australian Terrier,Above Average Working Dogs,0.7,16,25,20.5
+Border Terrier,Above Average Working Dogs,0.7,16,25,20.5
+Cairn Terrier,Above Average Working Dogs,0.7,16,25,20.5
+Chesapeake Bay Retriever,Above Average Working Dogs,0.7,16,25,20.5
+Dalmatian,Above Average Working Dogs,0.7,16,25,20.5
+English Setter,Above Average Working Dogs,0.7,16,25,20.5
+Giant Schnauzer,Above Average Working Dogs,0.7,16,25,20.5
+Irish Setter,Above Average Working Dogs,0.7,16,25,20.5
+Kerry Blue Terrier,Above Average Working Dogs,0.7,16,25,20.5
+Manchester Terrier,Above Average Working Dogs,0.7,16,25,20.5
+Miniature Pinscher,Above Average Working Dogs,0.7,16,25,20.5
+Newfoundland,Above Average Working Dogs,0.7,16,25,20.5
+Norwegian Elkhound,Above Average Working Dogs,0.7,16,25,20.5
+Portuguese Water Dog,Above Average Working Dogs,0.7,16,25,20.5
+Puli,Above Average Working Dogs,0.7,16,25,20.5
+Welsh Springer Spaniel,Above Average Working Dogs,0.7,16,25,20.5
+Yorkshire Terrier,Above Average Working Dogs,0.7,16,25,20.5
+Akita,Average Working Dogs,0.5,26,40,33
+American Water Spaniel,Average Working Dogs,0.5,26,40,33
+Australian Shepherd,Average Working Dogs,0.5,26,40,33
+Bedlington Terrier,Average Working Dogs,0.5,26,40,33
+Bichon Frise,Average Working Dogs,0.5,26,40,33
+Black and Tan Coonhound,Average Working Dogs,0.5,26,40,33
+Boston Terrier,Average Working Dogs,0.5,26,40,33
+Boxer,Average Working Dogs,0.5,26,40,33
+Cavalier King Charles Spaniel,Average Working Dogs,0.5,26,40,33
+Chinese Shar Pei,Average Working Dogs,0.5,26,40,33
+Curly Coated Retriever,Average Working Dogs,0.5,26,40,33
+Dachshund,Average Working Dogs,0.5,26,40,33
+English Foxhound,Average Working Dogs,0.5,26,40,33
+Finnish Spitz,Average Working Dogs,0.5,26,40,33
+German Wirehaired Pointer,Average Working Dogs,0.5,26,40,33
+Great Dane,Average Working Dogs,0.5,26,40,33
+Greyhound,Average Working Dogs,0.5,26,40,33
+Irish Terrier,Average Working Dogs,0.5,26,40,33
+Irish Wolfhound,Average Working Dogs,0.5,26,40,33
+Kuvasz,Average Working Dogs,0.5,26,40,33
+Pointer,Average Working Dogs,0.5,26,40,33
+Rhodesian Ridgeback,Average Working Dogs,0.5,26,40,33
+Scottish Deerhound,Average Working Dogs,0.5,26,40,33
+Shiba Inu,Average Working Dogs,0.5,26,40,33
+Siberian Husky,Average Working Dogs,0.5,26,40,33
+Staffordshire Bull Terrier,Average Working Dogs,0.5,26,40,33
+Tibetan Spaniel,Average Working Dogs,0.5,26,40,33
+Welsh Terrier,Average Working Dogs,0.5,26,40,33
+West Highland White Terrier,Average Working Dogs,0.5,26,40,33
+Whippet,Average Working Dogs,0.5,26,40,33
+Wirehaired Pointing Griffon,Average Working Dogs,0.5,26,40,33
+Bull Terrier,Fair Working Dogs,0.3,41,80,60.5
+Bullmastiff,Fair Working Dogs,0.3,41,80,60.5
+Chihuahua,Fair Working Dogs,0.3,41,80,60.5
+Dandie Dinmont Terrier,Fair Working Dogs,0.3,41,80,60.5
+French Bulldog,Fair Working Dogs,0.3,41,80,60.5
+Great Pyrenees,Fair Working Dogs,0.3,41,80,60.5
+Italian Greyhound,Fair Working Dogs,0.3,41,80,60.5
+Japanese Chin,Fair Working Dogs,0.3,41,80,60.5
+Maltese,Fair Working Dogs,0.3,41,80,60.5
+Old English Sheepdog,Fair Working Dogs,0.3,41,80,60.5
+Petit Basset Griffon Vendeen,Fair Working Dogs,0.3,41,80,60.5
+Pug,Fair Working Dogs,0.3,41,80,60.5
+Saint Bernard,Fair Working Dogs,0.3,41,80,60.5
+Scottish Terrier,Fair Working Dogs,0.3,41,80,60.5
+Sealyham Terrier,Fair Working Dogs,0.3,41,80,60.5
+Skye Terrier,Fair Working Dogs,0.3,41,80,60.5
+Tibetan Terrier,Fair Working Dogs,0.3,41,80,60.5
+Afghan Hound,Lowest Degree of Working Dogs,0,81,100,90.5
+Basenji,Lowest Degree of Working Dogs,0,81,100,90.5
+Basset Hound,Lowest Degree of Working Dogs,0,81,100,90.5
+Beagle,Lowest Degree of Working Dogs,0,81,100,90.5
+Bloodhound,Lowest Degree of Working Dogs,0,81,100,90.5
+Borzoi,Lowest Degree of Working Dogs,0,81,100,90.5
+Bulldog,Lowest Degree of Working Dogs,0,81,100,90.5
+Chow Chow,Lowest Degree of Working Dogs,0,81,100,90.5
+Mastiff,Lowest Degree of Working Dogs,0,81,100,90.5
+Shih Tzu,Lowest Degree of Working Dogs,0,81,100,90.5
