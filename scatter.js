@@ -12,7 +12,7 @@ const showScatter = () => {
 	document.querySelector('#dog-nav-prev').classList.remove('disabled');
 	document.querySelector('#dog-nav-next').classList.add('disabled');
 	document.querySelector('#doggy-details').innerHTML =
-		"<p>After analysis, while the professor's hypothesis was initially rejected, it was later accepted as potentially having significance.</p><p>That said, through visualizing the data points collected and displayed through this series of charts, it does not seem apparently clear whether or not there is, in fact, a correlation between breed size (in height) and breed intelligence.</p><p>And so... it would appear size <strong>DOES NOT</strong> matter.</p>";
+		"<p>After analysis, while the professor's hypothesis was initially rejected, it was later accepted as potentially having significance.</p><p>That said, through visualizing the data points collected and displayed through this series of charts, it does not seem apparently clear whether or not there is, in fact, a correlation between breed size and breed intelligence.</p><p>As such... it would appear size <strong>DOES NOT</strong> matter.</p>";
 	let chartTitle = document.querySelector('#chart-title');
 	chartTitle.innerHTML =
 		'<h1 class="display-6">Breed Size vs Breed Intelligence</h1><p class="text-muted">Click and drag regions to zoom and view breeds. Double-click to reset.</p>';

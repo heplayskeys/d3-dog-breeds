@@ -17,7 +17,6 @@ const showPie = () => {
 	let chartTitle = document.querySelector('#chart-title');
 	chartTitle.innerHTML =
 		'<h1 class="display-6">Breed Intelligence by Group</h1><p class="text-muted">Hover over pie slices to view additional information.</p>';
-	chartTitle.style.marginBottom = '-50px';
 
 	const width = 1260,
 		height = 960,

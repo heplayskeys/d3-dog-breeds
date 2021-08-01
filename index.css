@@ -131,5 +131,35 @@ polyline {
 }
 
 #dog-card {
+	position: fixed;
+	width: 25vw;
+	/* height: 10vh; */
+	left: 0;
+	bottom: 50vh;
+	padding-top: 5px;
 	box-shadow: 0 -5px 15px lightgray;
+	transform: translateX(-24vw);
+	transition: transform 0.5s;
+	transition-delay: 0.15s;
+	border-top: 1px dashed black;
+	background-color: #0d6efd;
+	color: white;
+}
+
+#dog-card:hover {
+	transition: transform 0.5s;
+	transform: translateX(0vw);
+}
+
+#doggy-details a {
+	color: white;
+}
+
+#doggy-details a:hover {
+	color: black;
+}
+
+#elips {
+	position: absolute;
+	right: 0.25vw;
 }
